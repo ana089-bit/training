@@ -1,0 +1,62 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e44]:
+          - generic [ref=e45]:
+            - generic [ref=e48]: Create a user profile card component
+            - img [ref=e51]
+          - generic [ref=e73]:
+            - img [ref=e76]
+            - generic [ref=e81]:
+              - generic [ref=e84]: Creating App.jsx
+              - separator [ref=e85]
+              - generic [ref=e88]: Creating UserProfileCard.jsx
+              - separator [ref=e89]
+              - generic [ref=e90]:
+                - paragraph [ref=e91]: "Done. Created a user profile card with:"
+                - list [ref=e92]:
+                  - listitem [ref=e93]: Overlapping avatar image with gradient header
+                  - listitem [ref=e94]: Name, title, bio, and location
+                  - listitem [ref=e95]: Follower/following stats
+                  - listitem [ref=e96]: Follow and Message action buttons
+                  - listitem [ref=e97]: Dark slate background with amber/rose accents
+                  - listitem [ref=e98]: Icons from lucide-react
+        - generic [ref=e19]:
+          - textbox "Describe the React component you want to create..." [ref=e20]
+          - button [disabled] [ref=e21]:
+            - img [ref=e22]
+    - separator [ref=e25]
+    - generic [ref=e27]:
+      - generic [ref=e28]:
+        - tablist [ref=e30]:
+          - tab "Preview" [selected] [ref=e31]
+          - tab "Code" [ref=e32]
+        - generic [ref=e33]:
+          - button "Sign In" [ref=e34]
+          - button "Sign Up" [ref=e35]
+      - iframe [ref=e71]:
+        - generic [ref=f4e7]:
+          - img "Alex Rivera" [ref=f4e9]
+          - heading "Alex Rivera" [level=2] [ref=f4e10]
+          - paragraph [ref=f4e11]: Product Designer
+          - paragraph [ref=f4e12]: Crafting digital experiences that matter
+          - generic [ref=f4e13]:
+            - img [ref=f4e14]
+            - generic [ref=f4e17]: San Francisco, CA
+          - generic [ref=f4e18]:
+            - generic [ref=f4e19]:
+              - paragraph [ref=f4e20]: "2.847"
+              - paragraph [ref=f4e21]: Followers
+            - generic [ref=f4e22]:
+              - paragraph [ref=f4e23]: "342"
+              - paragraph [ref=f4e24]: Following
+          - generic [ref=f4e25]:
+            - button "Follow" [ref=f4e26] [cursor=pointer]:
+              - img [ref=f4e27]
+              - text: Follow
+            - button "Message" [ref=f4e29] [cursor=pointer]:
+              - img [ref=f4e30]
+              - text: Message
+  - alert [ref=e72]
